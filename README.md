@@ -26,7 +26,7 @@ Neste projeto, implementamos um algoritmo genético para resolver o School Timet
 
 ## Instalação e Uso
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/algoritmo-genetico-timetabling.git`
+1. Clone este repositório: `git clone https://github.com/seu-usuario/GA_STP.git`
 2. Navegue até o diretório do projeto: `cd algoritmo-genetico-timetabling`
 3. Instale as dependências: `pip install -r requirements.txt`
 4. Execute o algoritmo genético: `python main.py`
@@ -41,11 +41,3 @@ Se você gostaria de contribuir para este projeto, por favor siga estas etapas:
 4. Faça commit das suas alterações: `git commit -am 'Adicionando uma nova funcionalidade'`
 5. Faça push para o branch: `git push origin minha-contribuicao`
 6. Abra um pull request
-
-## Licença
-
-Este projeto é licenciado sob a [Licença XYZ]. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Contato
-
-Se você tiver dúvidas ou sugestões sobre o projeto, sinta-se à vontade para entrar em contato comigo em [seu-email@example.com].
